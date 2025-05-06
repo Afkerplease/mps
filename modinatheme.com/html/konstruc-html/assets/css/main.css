@@ -534,7 +534,7 @@ p {
   left: 0;
   content: "";
   height: 2px;
-  background-color: var(--theme-color-2);
+  
   width: 37px;
   top: 14px;
 }
