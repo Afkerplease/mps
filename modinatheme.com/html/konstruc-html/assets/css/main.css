@@ -12,7 +12,8 @@ Version: 1.0.0
   --body: #fff;
   --black: #000;
   --white: #fff;
-  --theme-color: #ff792d;
+  /* --theme-color: #ff792d; */
+  --theme-color: #a0363e;
   --theme-color-2: #566dfb;
   --header: #1e2023;
   --text: #555;
@@ -534,7 +535,7 @@ p {
   left: 0;
   content: "";
   height: 2px;
-  
+
   width: 37px;
   top: 14px;
 }
