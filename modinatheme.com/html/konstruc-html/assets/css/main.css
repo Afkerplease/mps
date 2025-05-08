@@ -586,7 +586,8 @@ p {
 }
 
 .section-bg {
-  background-color: var(--bg) !important;
+  /* background-color: var(--bg) !important; */
+  background-color: #f3e279;
 }
 
 .sect-bg {
